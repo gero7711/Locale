@@ -1,0 +1,60 @@
+
+.container{
+    text-align: center;
+    margin-top: 300px;
+    
+}
+
+.buy{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.sell{
+    display: inline-block;
+    margin-left: 50px;
+}
+.button{
+    border-style: none;
+    padding: 20px 100px;
+    cursor: pointer;
+    border-radius: 7px;
+    background-color: #f58216;
+    color: white;
+}
+
+.button_style_text{
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.MainContainer{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button_search{
+    padding: 5px 30px;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#search_bar_custom{
+    padding: 5px 120px 5px 5px;
+    border-radius: 5px;
+}
+
+#Menu{
+    text-align: center;
+    margin-top: 300px;
+}
+
+
+
+
+
+
+
+
