@@ -3,6 +3,6 @@ function searchClick(){
 }
 
 // data to get
-// cons sell_services = {service: "#", price: "#"}
+// const sell_services = {service: "#", price: "#"}
 // const sell_products = {product: "#", price: "#"}
 //const user = {firstName: "#", lastName: "#" ,birthDate: "#" ,address: "#", }
